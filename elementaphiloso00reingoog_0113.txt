@@ -1,0 +1,52 @@
+DE SYLLOGISMIS HYPOTHETICIS. 83
+
+proinde inter ipsas vigent relationes ac inter duas pro·
+positiones contrarias (p. 52, Il).
+
+Hinc: Ex veritate unius conponentis sequitur salsitas
+alterius, sed ex falsitate anim non sequitur verr'tas alterius.
+
+Il. Unde unicus tantum recte concludendi modus ad·
+mitti potest, modus scilicet qui dicitur ponendo-tollens, id
+est: Uno membrorum maturis in minore posito (affirmato),
+alterum debet in conclusione tolli vel negari. E. g.: Petrus
+non simul sedet et stat. Atqui Petrus sedet. Ergo non
+stat. Illegitima vero est illatio: Atqui non sedet. Ergo stat.
+
+l ξ 3. De syllogismo disiunctivo.
+
+Ι. Propositionem disiunctivam scimus (p. 46) enuntiare
+inter plures propositiones eiusmodi relationem, ut illue ae·
+pareant esse sz'rrrul verae nec simul falsae, sed necessario quae·
+dam verae, quaedam falsae exsistant. Diversa componentia
+proinde inter se easdem relationes habent ac propositiones
+contradictoriae, cum quibus assimilantur (p. 51. 52).
+
+Hinc: Ex veritate unim conponentis sequitur salsitas
+olias, et ex falsitate anim sequitur veritos alius.
+
+ΙΙ. Duo proinde admittendi sunt modi recte con-
+
+ῑ cludendi:
+
+1. Modus ponendo-tollens, i. e. uno membrorum maioris
+
+' in minore affirmato, alterum vel alia in conclusione sunt
+neganda. E. g.: Aut dies est, ant nox. Atqui dies est.
+Ergo non est nox.
+
+2. Modus tollendo-ponent, i. e. uno membrorum maioris
+in minore negato, aliud vel alia in conclusione sunt affir-
+manda. Sic, in exemplo allat0, recte concluditur: Atqui
+non est dies. Ergo est nox.
+
+Notandum. Cum de natura propositionis disiunctivae
+sit, nt enuntiet praedicata iudicata simul subiecto inesse
+non posse, sequitur ut, quando membra maioris plura
+sunt quarn du0, uno in minore affirmate, cetera in con·
+
+elusione copulative neganda sint, i. e. adhibita particula
+6 Φ
+
+ 
+

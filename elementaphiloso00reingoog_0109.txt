@@ -1,0 +1,50 @@
+DE SYLLOGISMO CATEGORICO PERFECTO. 79
+
+ξ 3. De syllogismis categoricis compositis vel complexis.
+
+De syllogismis compositis vel complexis, quoad recti·
+tudinem, haec sunt monenda:
+
+Ι. Sedulo cavendum est, ne in conclusione explicite
+plus enuntietur quam in praemissis implicite assertum est.
+
+(p. 60). Tot igitur erunt praemissarum cum conclusione ordina-
+tiones possibiles, absolute loquendo, quot emnt ex quattuor istis
+litteris temariae combinationes possibiles, iuxta leges mathematicas.
+Est autem summa combinationum illarum omnium 4⁸ = 64. Ex
+his 52 invenies contra generales syllogismi regulas peccare, ita ut, si
+a figurarum regulis abstrahis, possibiles remaneant tantum 12, qui
+sunt: AAA, ΑΑΙ, ΑΙΙ, ΙΑΙ, AEE, AEO, Aoo, ΕΑΕ, EAO,
+EIO, IEO, ΟΑΟ.
+
+AEO, cum contineatur in AEE, praetermitti potest.
+
+Hi modi utiles, si termini iuxta regulas trium figurarum diversi-
+mode disponuntur, efficiunt 19 formas syllogismi rectas, quae qnat-
+tuor hisce versiculis ingeniosissime exprimuntur:
+
+1¹² fig.: Barbara, Celarent, Darii, Ferio: (modi ind.) Bamalipton3
+Celantes, Dabitis, Fapesmo, Frisesomorum.
+
+2² lig: Cesare, Camestres, Festino, Baroco; 3⁵ fig: Darapti,
+Felapton, Disamis, Datisi, Bocardo, Ferison.
+
+Quae omnia ut recte intellegantur, notandum est tres syllabas
+cuiuslibet vocis tres propositiones syllogismi denotare cum ipsarum
+⁸ quantitate et qualitate, ut paulo ante dictumest. Sic Barbara
+syllogismum exprimit cuius tres propositiones sunt universales affir-
+mantes; Celarent, syllogismum cuius maior est universalis negans,
+minor, universalis affirmans, conclusio, universalis negans, e. i. p.
+Quinque voces quae linea supposita sunt notatae (modi ind),
+significant modos primae figurae inversae, quarn nonnulli quartam
+figuram vocant (p. 78).
+
+Litterae vero consonantes diversarum illarum vocum ad reduc-
+tionem modorum inserviunt. Ope enim conversionis propositionum
+et transmutationis praemissae maioris cum minore plurimi modi
+liguarum reliquarum reduci possunt ad figuram primam, ut sic
+clarius necessitas consequentiae ostendatur. Haec omnia autem sic
+exprimuntur: «Litterae initiales BCDF innuunt, ad quem modum
+
+ 
+

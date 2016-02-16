@@ -1,0 +1,46 @@
+DE SYLLOGISMI RECTITUDINE ET VERITATE. 71
+
+immortalis. Atqui angelus non est anima humana. Ergo
+angelus non est immortalis.
+
+ἓ 2. Nexus declaratur, qui inter rectitudinem syllogismi et
+conclusionis veritatem viget.
+
+Supposita syllogismi rectitudine, quoad conclusionis veri·
+tatem haec sunt notanda: ’
+
+Ι. Sibarae sunt praemissae, conclusio semper crit vera
+Hoc sequitur ex ipsa natura syllogismi recti. Supposita
+enim hac rectitudine, conclusio nihil aliud est nisi ex·
+plicita declaratio eius, quod in praemissis implicite iam
+dictum est. Sed si praemissae sunt verae, conclusio in
+ipsis implicata vera est. Proinde explicite declarata vera
+erit. Idem enim, quod implicite asseritur, explicite as·
+sertum est sibi idem.
+
+Hinc sequitur axioma, cuius magna erit in disputa·
+tionibus dialecticis utilitas: Si comaquens falsarunt, alter-
+utra saltem ex praemissas falsu sit oportet.
+
+II. Si falsae sunt praemissae (ambae vel alterutra), con·
+clusio potest falsa esse vel uera. Etenim si falsae sup·
+ponuntur praemissae, hoc ex duplici ratione fieri potest:
+
+Vel ex eo, quod in praemissis (implicite) enuntiatur re·
+latio convenientiae vel disconvenientiae subiecti et attributi
+conclusionis et simultatio liuius convenientiae, cum reuera
+neutrum sit: tunc conclusio recte deducta necessario erit
+falsa, secundum principium supra memoratum. Exemplum
+huius rei habes in hoc syllogismo: Omne spirituale est
+immortale. Atqui lapis est spiritualis. Ergo lapis est
+immortalis.
+
+Vel ex e0, quod in praemissis relatio convenientiae
+vel disconvenientiae quidem enuntiatur, quac reuera exsistit,
+sed falsa adducitur huius relationis ratio; tunc principium
+supra laudatum non impedit, quominus conclusio esse
+possit vera materialiter, i. e. non ex ratione in syllogismo
+declarata, sed ex alia. Huius rei exemplum hic praebet
+
+ 
+

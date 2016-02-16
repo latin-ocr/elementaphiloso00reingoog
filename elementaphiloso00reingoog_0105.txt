@@ -1,0 +1,48 @@
+DE SYLLOGISMO CATEGORICO PERFECTO. 75
+
+Unde falsus est syllogismus: Aliqua creatura est
+rationalis. Atqui leo est creatura. Ergo leo est ratio
+nalis, Sic etiam non rectos est hic syllogismus, cuius
+conclusio tamen est ocra: Omnis homo est rationalis.
+Atqui Petrus est rationalis. Ergo Petrus est homo
+
+Ambae affirmantes nequeunt generare negantem. Cum
+enim in praemissis nulla sit negatio, conclusio negativa
+in ipsis implicite non invenitur. Proinde nec explicite
+ἵ talis conclusio enuntiari potest.
+
+Utroque se' praemissa neget, nine'l inde sequetur. Id est,
+si ambae praemissae sunt propositiones negativae, nulla
+conclusio ex ipsis erui potest. Tunc enim de relatione,
+quarn duo extrema habent inter se, nihil dicitnr in prae-
+missis Proinde nec in conclusione de ipsis quicquam
+recte enuntiari potest (p. 67, fig. 13).
+
+Peiorem seque'tur semper conclusio partem. Sensus est:
+si altera praemissa affirmativa fuerit, altera negativa, con·
+clusio erit negativa3 si altera universalis fuerit, altera
+, particularis conclusio erit particularis.
+
+ἵ Reno:
+
+1. Prioris assertionis ratio patet ex ipsa natura syl·
+logismi (p. 66, fig. 11).
+
+2. Si altere praemissu suerit uneoersole's, altero purti-
+cularis, conclusio particularis sit oportet. Etenim:
+
+a) Sit primo utroque praemisso affirmativa. Tunc unus
+tantum in ipsis invenietur terminus universalis, subiectum
+scilicet praemissae universalis. Sed terminus ille, propter
+regulam «Aut semel aut iterum . . .>›, medius terminus sit
+oportet. Extrema proinde in praemissis erunt particularia
+et consequenter in conclusione necessario particularia
+erunt iuxta regulam «Latius hos. ..>)“. Conclusio igitur
+in hoc casu erit particularis.
+
+b) Sit altera affirmativa, alteru uegetiore. Tunc con·
+clusio erit negativa, propter regulam supra declaratam.
+Sed etiam particularis necessario erit. Si enim esset
+
+ 
+
